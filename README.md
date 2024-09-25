@@ -1,6 +1,6 @@
 # Mindless Physics Source Code For Devs
  - This game is abadoned for being to ambitious so here is the source code
- - The code does not have an app id since I am not sharing it random people for logical reasons ._.
+ - The code does not have a Photon Realtime App Id and playfab Title ID + Secret Key since I am not sharing it random people for logical reasons ._.
  - IMPORTANT:
  - - This game uses PlayFab and PlayFab is connected to photon using custom auth!
  - - This game has the oculus integration package
